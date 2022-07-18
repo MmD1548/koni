@@ -1,0 +1,30 @@
+{
+    "status": "OK",
+    "status_det": "OK",
+    "data": {
+        "status": "OK",
+        "auth": "upseigtzgyheqvlejmyxukfztauoredy",
+        "user": {
+            "user_guid": "u0CAoKk0be93748b0519840b64d3ca89",
+            "first_name": "‌Raberto",
+            "last_name": "",
+            "phone": "989362473942",
+            "username": "Raberto_bot",
+            "avatar_thumbnail": {
+                "file_id": "6349386478",
+                "mime": "jpg",
+                "dc_id": "818",
+                "access_hash_rec": "5871784511057252603890448686862022040616"
+            },
+            "last_online": 1649666545,
+            "bio": "𝚁𝙾𝙱𝙴𝚁𝚃𝙾 | 𝙲𝙷\n@Raberto_bot0\n𝙼𝙾𝙳𝙴𝚁 : \n@Traouton\nON✅",
+            "is_deleted": false,
+            "is_verified": false,
+            "online_time": {
+                "type": "Exact",
+                "exact_time": 1649666545
+            }
+        },
+        "timestamp": "1649666649"
+    }
+}
